@@ -49,3 +49,12 @@ margin-top: 10px;
     margin-right: auto;
     width: 320px;
 }
+
+p::first-letter{
+    font-weight: bold;
+}
+
+p::first-line{
+    font-variant: small-caps;
+}
+
